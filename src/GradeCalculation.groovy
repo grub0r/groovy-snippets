@@ -1,4 +1,4 @@
-def grades = [8, 7, 9, 10, 6]
+def grades = [1, 2, 3, 4, 5]
 
 //average
 def sum = 0;
